@@ -14,5 +14,15 @@
 
 ## Backlog
 
+### Docker
+* [Self-Paced Training](https://training.docker.com/self-paced-training)
+  * Introduction to Docker
+  * Docker Fundamentals
+  * Docker Operations
+
+
+
+
+
 ### webpack
 * [Introduction to Webpack](https://www.youtube.com/watch?v=RKqRj3VgR_c) by Jeremy Lund
